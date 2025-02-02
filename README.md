@@ -20,3 +20,5 @@ The **Fitness Pro Mobile App** aims to make fitness more accessible and effectiv
    
 4. **Usability Testing**
    - Conducted beta testing to gather feedback and make final design adjustments.
+  
+   **Figma Link**: https://www.figma.com/design/luHuDgpCUpsKdwG6ZALplG/Personal-Fitness-Training-App?node-id=0-1&t=sWqxyUAeCHr6Mg9N-1
